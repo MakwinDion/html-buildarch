@@ -1,0 +1,23 @@
+h1{
+    color: blue; font-style: italic; font-size: 65px;
+}
+h3
+{
+        font-size: 20px; color:gold;font-style: oblique;
+
+}
+      
+    a[href="http://google.com"]  
+    {
+        color: rgba(126, 95, 51, 0.804);
+        font-size: 20px;
+
+    }
+    .special
+    {
+        font-weight: bolder;color: brown;
+    }
+        a:hover
+        {
+            color:yellowgreen;text-decoration: none;
+        }
